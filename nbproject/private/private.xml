@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmNhanVienKho.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaLoaiSP.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/chiTietPhieuNhapDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/textfield/Main.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/Database.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/POJO/chiTietPhieuNhapPojo.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemKH.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmNhanVienThuNgan.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaNCC.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/nhanVienDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemNCC.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/sanPhamDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaKH.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/loaiSanPhamDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/dataAdmin.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmthemSpMoi.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmDangNhap.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmNhapHang.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemLSP.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmHinhSanPham.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmXemQuyen.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmHinhAnhNV.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaSP.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/RoleUserDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/thongKeSanPhamDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmXemQuyenRole.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/hoaDonDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/quyenDTRoleDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemNVMoi.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaNV.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmChiTietHD.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/WritePDF.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/chiTietHoaDonDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/phieuNhapDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/SendMail.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/DAO/nhaCungCapDao.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmAdmin.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmChiTietPN.java</file>
+            <file>file:/C:/Users/AnhDoan/Desktop/QuanLyCuaHangThoiTrang/src/GUI/CapQuyenUser.java</file>
+        </group>
+    </open-files>
+</project-private>
